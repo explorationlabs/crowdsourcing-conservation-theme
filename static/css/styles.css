@@ -136,7 +136,7 @@ body {
 }
 .navbar-fixed-top .navbar-inner,
 .navbar-inner {
-  background: #8bbf36;
+  background: #000000;
   filter: none;
   border: none;
   -webkit-box-shadow: none;
@@ -317,7 +317,7 @@ html {
   background-color: #7a7a7a;
 }
 body > footer {
-  border-top: 1px solid #686868;
+  border-top: 1px solid #000000;
 }
 body > footer .container {
   padding-top: 20px;
@@ -631,7 +631,7 @@ ul.users li a {
   }
 }
 
-/* Phone 
+/* Phone
 -------------------------*/
 @media (max-width: 480px) {
     #cookies_warning {
@@ -655,5 +655,3 @@ body > footer li > a {
 body > footer li > a:hover {
     color: rgb(205, 205, 205);
 }
-
-
